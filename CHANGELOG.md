@@ -7,4 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-<changes>
+### Removed
+
+- SourceModPatcher tokens in gameinfo.txt
+
+## [1.0.0] - 2025-01-02
+
+### Added
+
+- Initial release
