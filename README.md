@@ -7,7 +7,7 @@ Legacy HL2 mod proof of concept (POC) - only for development purposes.
 ### Cloning the repository
 
 ```text
-git clone --recurse-submodules https://github.com/HL2-Mods-Legacy-Project/<mod repo>.git
+git clone --recurse-submodules https://github.com/HL2-Mods-Legacy-Project/poc-hl2-legacy-mod-hl2as.git
 ```
 
 ### Building the installer
