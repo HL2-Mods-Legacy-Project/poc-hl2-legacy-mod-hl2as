@@ -1,4 +1,4 @@
-& "$PSScriptRoot\..\mod-installer\build_all.ps1" `
+& "$PSScriptRoot\..\gitmodules\mod-installer\build_all.ps1" `
   -Version "2.0.0" `
   -OutputFilePrefix "HL2_Assault" `
   -ModName "Half-Life 2: Assault" `
